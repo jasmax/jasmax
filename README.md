@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-- 🌱 I’m currently learning **Software Quality Assurance**
+- 🌱 I’m currently learning on **Software Quality Assurance**
 
-- 🤝 I’m looking for help with **Building Digital Twin**
+- 🤝 I’m looking for help with **building Digital Twin**
 
 - 📫 How to reach me **jasmax@yahoo.com**
 
