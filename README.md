@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
+
 - 🌱 I’m currently learning on **Software Quality Assurance**
 
 - 🤝 I’m looking for help with **building Digital Twin**
